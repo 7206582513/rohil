@@ -4,4 +4,11 @@ class PW
       {   
 
        }
-}                                                                                                          
+}         
+class PW
+{
+      public void m2()
+      {   
+
+       }
+}                                                                                                                             
